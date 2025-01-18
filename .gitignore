@@ -1,0 +1,15 @@
+# common
+node_modules/
+
+# hardhat
+artifacts/
+cache/
+
+# env
+.env
+
+# editor
+.vscode/
+.idea/
+
+
